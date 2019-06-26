@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>HaroldoBeyer</RootNamespace>
+    <AssemblyName>Robo_Haroldo</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="robocode">
+      <HintPath>C:\robocode\libs\robocode.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

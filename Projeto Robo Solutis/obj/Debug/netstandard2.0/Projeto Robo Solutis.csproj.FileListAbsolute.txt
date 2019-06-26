@@ -1,0 +1,12 @@
+D:\Projetos\Robocode\Robo Solutis\Projeto Robo Solutis\bin\Debug\netstandard2.0\Robo_Haroldo.deps.json
+D:\Projetos\Robocode\Robo Solutis\Projeto Robo Solutis\bin\Debug\netstandard2.0\Robo_Haroldo.dll
+D:\Projetos\Robocode\Robo Solutis\Projeto Robo Solutis\bin\Debug\netstandard2.0\Robo_Haroldo.pdb
+D:\Projetos\Robocode\Robo Solutis\Projeto Robo Solutis\bin\Debug\netstandard2.0\robocode.dll
+D:\Projetos\Robocode\Robo Solutis\Projeto Robo Solutis\bin\Debug\netstandard2.0\robocode.xml
+D:\Projetos\Robocode\Robo Solutis\Projeto Robo Solutis\obj\Debug\netstandard2.0\Projeto Robo Solutis.csproj.CoreCompileInputs.cache
+D:\Projetos\Robocode\Robo Solutis\Projeto Robo Solutis\obj\Debug\netstandard2.0\Projeto Robo Solutis.AssemblyInfoInputs.cache
+D:\Projetos\Robocode\Robo Solutis\Projeto Robo Solutis\obj\Debug\netstandard2.0\Projeto Robo Solutis.AssemblyInfo.cs
+D:\Projetos\Robocode\Robo Solutis\Projeto Robo Solutis\obj\Debug\netstandard2.0\Projeto Robo Solutis.csproj.CopyComplete
+D:\Projetos\Robocode\Robo Solutis\Projeto Robo Solutis\obj\Debug\netstandard2.0\Robo_Haroldo.dll
+D:\Projetos\Robocode\Robo Solutis\Projeto Robo Solutis\obj\Debug\netstandard2.0\Robo_Haroldo.pdb
+D:\Projetos\Robocode\Robo Solutis\Projeto Robo Solutis\obj\Debug\netstandard2.0\Projeto Robo Solutis.csprojAssemblyReference.cache
